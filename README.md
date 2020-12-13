@@ -1,8 +1,8 @@
 # Rubik-s-Cube
 
-[1단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-1)
-[2단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-2)
-[3단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-3)
+- [1단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-1)
+- [2단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-2)
+- [3단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-3)
 
 ## :memo: 구현해야 할 기능목록
 
