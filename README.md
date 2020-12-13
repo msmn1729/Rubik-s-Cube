@@ -1,5 +1,9 @@
 # Rubik-s-Cube
 
+[1단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-1)
+[2단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-2)
+[3단계](https://github.com/msmn1729/Rubik-s-Cube/tree/step-3)
+
 ## :memo: 구현해야 할 기능목록
 
 - [x] 입력: 사용자로부터 단어 하나, 정수 숫자 하나( -100 <= N < 100) , L 또는 R을 입력받는다. L 또는 R은 대소문자 모두 입력 가능하다.
